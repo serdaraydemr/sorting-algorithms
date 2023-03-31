@@ -1,2 +1,2 @@
 # sorting-algorithms
-blabla
+Bu repoda, bubble sort, selection sort, insertion sort, quick sort ve merge sort gibi sıralama algoritmalarını anlatan ve basit kod örnekleri veren bir dosya bulunmaktadır. Sıralama algoritmaları, verileri belirli bir sıraya göre düzenlemek için kullanılan yöntemlerdir. Sıralama algoritmalarının performansı, hafıza verimliliği, zaman verimliliği, durağanlık ve rekürsiflik gibi kriterlere göre değerlendirilebilir. Bu repodaki dosyada, her bir sıralama algoritmasının çalışma mantığı, avantajları ve dezavantajları açıklanmış ve Python dilinde yazılmış kodlarla gösterilmiştir. Bu sayede sıralama algoritmalarını daha iyi anlamak ve uygulamak mümkün olacaktır.
